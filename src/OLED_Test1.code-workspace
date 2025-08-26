@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../STEM/Coding_Apps/Embedded/ESP32/OLED/OLED_Test1"
+		},
+		{
+			"name": "OLED_Control",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
